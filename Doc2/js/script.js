@@ -1,4 +1,3 @@
-
 //Based on the Scroller function from @sallar
 var $content = $('header .content')
   , $blur    = $('header .overlay')
