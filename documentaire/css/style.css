@@ -476,9 +476,10 @@ p {
 #fh5co-sayings {
   padding: 7em 0;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1200px) {
   #fh5co-sayings {
-    padding: 5em 0;
+    /*padding: 5em 0;*/
+    margin-top: 300px;
   }
 }
 #fh5co-sayings .flexslider .slides li {
