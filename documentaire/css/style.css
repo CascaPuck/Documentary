@@ -395,6 +395,7 @@ p {
   -moz-flex-wrap: wrap;
   background: #e6e6e6;
   width: 100%;
+  height: 500px;
 }
 #fh5co-about .fh5co-2col {
   width: 40%;
@@ -482,7 +483,7 @@ p {
 }
 #fh5co-sayings .flexslider .slides li {
   font-size: 40px;
-  line-height: 1.5;
+ /* line-height: 1.5;*/
 }
 #fh5co-sayings .flexslider .slides li blockquote {
   padding-left: 0;
@@ -1381,48 +1382,9 @@ iframe {
   margin-right: auto
 }
 
-/*# sourceMappingURL=style.css.map */
-=======
-html, body {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-}
 
-header {
-  height: 100%;
-  position: relative;
-  overflow: hidden;
-  background: url(https://www.designyourway.net/blog/wp-content/uploads/2019/02/aesthetic-wallpaper-1-2048x1138.jpg) center no-repeat;
-  background-size: cover;
-}
-
-hgroup {
-  position: fixed;
-}
-
-header hgroup {
-  -webkit-transform: translate(-50%, -50%);
-  -moz-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  -o-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  display: inline-block;
+.description-meal {
+  font-size: 20px;
+  color: white;
   text-align: center;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  color: #fff;
-  border: 5px solid #fff;
-  padding: .5em 3em;
-  background-color: rgba(0, 0, 0, 0.2);
-  z-index: 2;
-}
-
-#video-intro {
-  margin-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 80%;
-  height: 400px;
 }
