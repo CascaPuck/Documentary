@@ -191,7 +191,7 @@ p {
  * Flexslider
  */
 #fh5co-home {
-  min-height: 700px;
+  min-height: 400px;
   background: #fff url(../images/loader.gif) no-repeat center center;
 }
 #fh5co-home .flexslider {
@@ -477,7 +477,7 @@ p {
 }
 @media screen and (max-width: 1200px) {
   #fh5co-sayings {
-    /*padding: 5em 0;*/
+    padding: 5em 0;
     margin-top: 300px;
   }
 }
