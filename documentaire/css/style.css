@@ -1376,6 +1376,9 @@ h2 {
 
 iframe {
   border-radius: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
 }
 
 /*# sourceMappingURL=style.css.map */
@@ -1423,4 +1426,3 @@ header hgroup {
   width: 80%;
   height: 400px;
 }
->>>>>>> 4d9c6640f368630b0d51355a15ccc7d8aea5b887
