@@ -483,7 +483,7 @@ p {
 }
 #fh5co-sayings .flexslider .slides li {
   font-size: 40px;
- line-height: 0;
+ line-height: 1.5em;
 }
 #fh5co-sayings .flexslider .slides li blockquote {
   padding-left: 0;
@@ -560,7 +560,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0103-served-plate_64.png) no-repeat;
+  /*background: url(../images/0103-served-plate_64.png) no-repeat;*/
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -781,7 +781,7 @@ p {
   width: 64px;
   position: absolute;
   content: "";
-  background: url(../images/0401-vegan.png) no-repeat;
+  /*background: url(../images/0401-vegan.png) no-repeat;*/
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -812,7 +812,7 @@ p {
   padding-left: 50px;
 }
 #fh5co-menus .fh5co-food-menu h2.fh5co-drinks:before {
-  background: url(../images/0301-pina-colada.png) no-repeat;
+  /*background: url(../images/0301-pina-colada.png) no-repeat;*/
   content: "";
   position: absolute;
   top: -20px;
@@ -824,7 +824,7 @@ p {
   padding-left: 80px;
 }
 #fh5co-menus .fh5co-food-menu h2.fh5co-dishes:before {
-  background: url(../images/0302-steak.png) no-repeat;
+/*  background: url(../images/0302-steak.png) no-repeat;*/
   content: "";
   position: absolute;
   top: 0;
@@ -917,7 +917,7 @@ p {
   width: 49px;
   position: absolute;
   content: "";
-  background: url(../images/0402-chef.png) no-repeat;
+  /*background: url(../images/0402-chef.png) no-repeat;*/
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -1011,7 +1011,7 @@ p {
   width: 61px;
   position: absolute;
   content: "";
-  background: url(../images/0203-coffee-love.png) no-repeat;
+ /* background: url(../images/0203-coffee-love.png) no-repeat;*/
   top: 0;
   left: 50%;
   margin-top: -50px;
@@ -1334,7 +1334,7 @@ p {
   -ms-border-radius: 50%;
   border-radius: 50%;
 }
-#fh5co-type h3.with-icon.icon-1:before, #fh5co-type h3.with-icon.icon-1::before {
+/*#fh5co-type h3.with-icon.icon-1:before, #fh5co-type h3.with-icon.icon-1::before {
   background: url(../images/type-1.png) no-repeat center center;
 }
 #fh5co-type h3.with-icon.icon-2:before, #fh5co-type h3.with-icon.icon-2::before {
@@ -1345,7 +1345,7 @@ p {
 }
 #fh5co-type h3.with-icon.icon-4:before, #fh5co-type h3.with-icon.icon-4::before {
   background: url(../images/type-4.png) no-repeat center center;
-}
+}*/
 #fh5co-type p {
   color: rgba(255, 255, 255, 0.7);
 }
