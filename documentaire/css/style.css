@@ -392,13 +392,13 @@ p {
   -moz-flex-wrap: wrap;
   background: #e6e6e6;
   width: 85%;
-  height: 500px;
+  height: 600px;
   border-radius:0px;
 }
 
 #video-intro {
   width: 100%;
-  height: 600px;
+  height: 700px;
   padding-top: 50px;
 }
 /*#fh5co-about .fh5co-2col {
@@ -1375,9 +1375,9 @@ h1 {
 }
 
 h2 {
-      margin-block-start: 0px;
+    margin-block-start: 0px;
     margin-block-end: 0px;
-    line-height: 60px;
+    line-height: 100px;
 }
 
 iframe {
