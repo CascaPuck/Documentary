@@ -207,16 +207,16 @@ p {
   text-align: center;
 }
 #fh5co-home .flexslider .fh5co-text {
-  margin: 0;
-  padding: 0;
+  /*margin: 0;
+  padding: 0;*/
   font-family: "Playfair Display", serif;
   font-size: 300px;
   font-weight: 700;
   font-style: italic;
   color: #fff;
-  -webkit-transition: 0.3s;
+  /*-webkit-transition: 0.3s;
   -o-transition: 0.3s;
-  transition: 0.3s;
+  transition: 0.3s;*/
 }
 @media screen and (max-width: 992px) {
   #fh5co-home .flexslider .fh5co-text h1 {
@@ -259,8 +259,8 @@ p {
   bottom: 0;
   left: 0;
   right: 0;
-  opacity: .5;
-  background: #000;
+ /* opacity: .5;
+  background: #000;*/
 }
 #fh5co-home .flexslider .flex-control-nav,
 #fh5co-home .flexslider .flex-direction-nav {
@@ -397,7 +397,6 @@ p {
 }
 
 #video-intro {
-  background: #130d08 url(../images/wood_1.png) repeat;
   width: 100%;
   height: 700px;
   padding-top: 50px;
@@ -1056,7 +1055,6 @@ p {
 #fh5co-container {
   position: relative;
   z-index: 10;
-  background: #130d08 url(../images/wood_1.png) repeat;
 }
 
 #fh5co-footer {
@@ -1102,11 +1100,11 @@ p {
   text-decoration: none;
 }
 
-#fh5co-offcanvas, #fh5co-container, .fh5co-nav-toggle, #fh5co-footer {
+/*#fh5co-offcanvas, #fh5co-container, .fh5co-nav-toggle, #fh5co-footer {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-}
+}*/
 
 #fh5co-container, .fh5co-nav-toggle, #fh5co-footer {
   z-index: 2;
@@ -1398,6 +1396,7 @@ iframe {
 
 #video-intro {
   border-radius: 0px;
+  background: #130d08 url(../images/wood_1.png) repeat;
 }
 
 #desc1, #desc2{
